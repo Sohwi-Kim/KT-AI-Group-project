@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 python main3.py
+CUDA_VISIBLE_DEVICES=0 python main4.py
